@@ -4,9 +4,9 @@ A real-time stereo visual odometry pipeline implemented using OpenCV in C++. Thi
 
 [![Stereo Visual Odometry Demo](https://img.youtube.com/vi/nB3G3LbG-D0/hqdefault.jpg)](https://www.youtube.com/watch?v=nB3G3LbG-D0)
 
-▶️ **Click the image above to watch the demo on YouTube**
+**Click the image above to watch the demo on YouTube**
 
-## 📌 Key Features
+## Key Features
 
 - ORB Feature Detection & Tracking
 - StereoSGBM-based Disparity Map
@@ -15,7 +15,7 @@ A real-time stereo visual odometry pipeline implemented using OpenCV in C++. Thi
 - Real-time camera trajectory visualization
 - Resized KITTI stereo dataset support with scaled intrinsics
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C++ & OpenCV
 - KITTI Dataset (Grayscale Stereo)
@@ -23,13 +23,13 @@ A real-time stereo visual odometry pipeline implemented using OpenCV in C++. Thi
 - Disparity Estimation: StereoSGBM
 - Pose Estimation: solvePnPRansac
 
-## 📁 Output Examples
+## Output Examples
 
 - Disparity Image  
 - Keypoint Matches  
 - Trajectory Plot  
 
-## 🚀 Run Instructions
+## Run Instructions
 
 ```bash
 # Compile and run in Visual Studio or use CMake
